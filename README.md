@@ -32,6 +32,8 @@ Please use the "npm i" command to install dependencies in the command line inter
 
 Please use the "npm start" command in the command line interface to start the application.
 
+Please find a demonstration video here: https://drive.google.com/file/d/1fcA88dZvOxowgObV90PMPqv_aXh94Dnr/view
+
 <a name="contributions"></a>
 
 ## Contributors
